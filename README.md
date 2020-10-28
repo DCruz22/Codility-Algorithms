@@ -21,4 +21,6 @@ as the programming language.
 * Counting Elements
   * FrogRiverOne(100%)
   * MaxCounters(100%)
-  * MissingInteger(In Progress)
+  * MissingInteger(100%)
+  * PermCheck(100%)
+* Prefix Sums(Not Started)  
